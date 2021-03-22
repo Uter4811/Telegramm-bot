@@ -1,2 +1,2 @@
 USE cities;
-SHOW TABLES;
+Select * from city;
