@@ -1,0 +1,2 @@
+USE cities;
+SHOW TABLES;
