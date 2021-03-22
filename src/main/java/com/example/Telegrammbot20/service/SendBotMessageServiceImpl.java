@@ -15,6 +15,7 @@ public class SendBotMessageServiceImpl implements SendBotMessageService {
     public SendBotMessageServiceImpl(TelegramBot telegramBot) {
 
         this.telegramBot = telegramBot;
+        System.out.println("для проверки");
     }
 
     @Override
